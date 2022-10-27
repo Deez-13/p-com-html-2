@@ -2,6 +2,10 @@ body {
 	
 }
 
+.banner-background{
+	background: rgb(200, 200, 255);
+}
+
 #banner {
 	width:100%;
 }
@@ -16,6 +20,7 @@ body {
 
 h1 {
 	text-align: center
+	color: rgb(0, 0, 0);
 }
 
 p {
@@ -56,3 +61,11 @@ ul {
 }
 
 .ben
+
+.titulo-principal {
+    padding-left: 20px;
+}
+
+.titulo-centralizado {
+    text-align: center
+}
